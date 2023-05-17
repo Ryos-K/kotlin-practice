@@ -48,6 +48,7 @@ jar_cmd
 javac hellojava/Main.java hellojava/utils/Hello.java
  -> hellojava/Main.class, hellojava/utils/Hello.class
 jar -cvfm hellojava/hello.jar hellojava/META-INF/MANIFEST.MF hellojava/
+ -> hellojava/hello.jar
 ```
 **注意点 1 : Curent Directoryはpackageよりも上の階層でなくてはならない**  
 **注意点 2 : MANIFEST.MFは最後に改行を入力しなければならない**
