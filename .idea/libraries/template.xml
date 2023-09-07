@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="template">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/atcoder/template.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

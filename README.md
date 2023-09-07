@@ -1,6 +1,8 @@
 # About
 Kotlinの学習記録
 
+- Kotlin を VSCode で記述することは困難であったため, Intellij IDEA を用いた方が良い
+
 # Structure
 ```
 kotlin-practice

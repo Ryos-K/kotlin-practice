@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ABC318">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/atcoder/ABC318/a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/atcoder/ABC318/c.jar!/" />
+      <root url="jar://$PROJECT_DIR$/atcoder/ABC318/b.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
